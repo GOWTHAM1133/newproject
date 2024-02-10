@@ -2,7 +2,7 @@ import java.util.*;
 import java.util.Arrays;
 public class Main{
            public static void main(String [] args){
-                 Scanner sc=new Scanner(System.in);
+                 Scanner sc=new Scanner(System.in);  //input
                  int count=0;
                     String str=sc.nextLine();
                 char arr []=str.toCharArray();
