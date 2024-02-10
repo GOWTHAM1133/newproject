@@ -20,7 +20,7 @@ public class Main{
                   }
                }
              if(count==str.length()){
-                System.out.println("Same");
+                System.out.println("Same");//Print statement
               }else{
                 System.out.println("Different");
                 }
