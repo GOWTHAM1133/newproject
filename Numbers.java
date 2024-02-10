@@ -1,5 +1,5 @@
 import java.util.*;
-public class Number{
+public class Numbers{
     public static void main(String [] args){
         Scanner sc=new Scanner(System.in);
         Integer num = Integer.valueOf(sc.nextInt());
